@@ -1,1 +1,1 @@
-# oauth2-yandex
+# Yandex OAuth2 client provider
