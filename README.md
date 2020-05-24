@@ -1,1 +1,1 @@
-# oauth-yandex
+# oauth2-yandex
